@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting at school",
+      "day": "Feb 6th at 1:30 pm",
+      "reminder": true
+    },
+    {
+      "text": "Take test",
+      "day": "Monday",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Maths Assignment",
+      "day": "Friday",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Extra lecture",
+      "day": "Tuesday at 5 pm",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
